@@ -9,7 +9,36 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Wuke Zhu</rights>
   <title>海葵</title>
-  <updated>2026-07-13T07:13:46.120Z</updated>
+  <updated>2026-07-13T07:28:00.703Z</updated>
+  <entry>
+    <author>
+      <name>Wuke Zhu</name>
+    </author>
+    <content>
+      <![CDATA[<h3>五月二日</h3>像一只酸的动物嗅我盛水的心灯光倾洒浮起关于明天被遗忘的一切<p>藏起的页码于是暴露<br>谁的手一下就翻过<br>整个假期</p><h3>午睡</h3>习惯于枕着静脉和秒针入睡<p>那些声音<br>坐在黑暗的门口<br>看我</p><p>我让他们弹奏我<br>漫长，无风的疼痛<br>我让他们住在我眼睛里</p><h3>雨后</h3>清晨的时间摸索心和胃共同的空旷蛙鸣阔叶低垂往事在此时漫过纱窗无法走出梅雨前夕稀薄的句号就驾驶这一整年的锈云彩般涂满所有天空<h3>困意</h3>划过正午的空旷走到空教室中央是怪兽般的餐车还是你寂然的飞行？启示般的耳鸣阳光无声倾泻而下就这样，忘记了布幔与玻璃]]>
+    </content>
+    <id>http://example.com/2026/07/13/%E4%BA%94%E6%9C%88%E4%BA%8C%E6%97%A5/</id>
+    <link href="http://example.com/2026/07/13/%E4%BA%94%E6%9C%88%E4%BA%8C%E6%97%A5/"/>
+    <published>2026-07-13T07:16:25.000Z</published>
+    <summary>
+      <![CDATA[<h3>五月二日</h3>
+像一只酸的动物
+嗅我盛水的心
+灯光倾洒
+浮起关于明天
+被遗忘的一切
+
+<p>藏起的页码于是暴露<br>谁的手一下就翻过<br>整个假期</p>
+<h3>午睡</h3>
+习惯于枕着
+静脉和秒针
+入睡
+
+<p>那些声音<br>坐在黑暗的门口<br>看我</]]>
+    </summary>
+    <title>五月二日</title>
+    <updated>2026-07-13T07:28:00.703Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Wuke Zhu</name>
@@ -66,8 +95,8 @@
     <content>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
     </content>
-    <id>http://example.com/2026/07/04/hello-world/</id>
-    <link href="http://example.com/2026/07/04/hello-world/"/>
+    <id>http://example.com/2026/07/04/%E5%85%B3%E4%BA%8E%E6%B5%B7%E8%91%B5/</id>
+    <link href="http://example.com/2026/07/04/%E5%85%B3%E4%BA%8E%E6%B5%B7%E8%91%B5/"/>
     <published>2026-07-04T08:59:13.904Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
