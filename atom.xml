@@ -9,13 +9,16 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Wuke Zhu</rights>
   <title>海葵</title>
-  <updated>2026-07-13T07:36:03.985Z</updated>
+  <updated>2026-07-13T08:22:22.712Z</updated>
   <entry>
     <author>
       <name>Wuke Zhu</name>
     </author>
+    <category term="诗" scheme="http://example.com/tags/%E8%AF%97/"/>
+    <category term="高中" scheme="http://example.com/tags/%E9%AB%98%E4%B8%AD/"/>
+    <category term="练习" scheme="http://example.com/tags/%E7%BB%83%E4%B9%A0/"/>
     <content>
-      <![CDATA[<h3>五月二日</h3>像一只酸的动物<br>嗅我盛水的心<br>灯光倾洒<br>浮起关于明天<br>被遗忘的一切<br><p>藏起的页码于是暴露<br><br>谁的手一下就翻过<br><br>整个假期<br></p><h3>午睡</h3>习惯于枕着<br>静脉和秒针<br>入睡<br><p>那些声音<br><br>坐在黑暗的门口<br><br>看我<br></p><p>我让他们弹奏我<br><br>漫长，无风的疼痛<br><br>我让他们住在我眼睛里<br></p><h3>雨后</h3>清晨的时间<br>摸索心和胃<br>共同的空旷<br>蛙鸣<br>阔叶低垂<br>往事在此时漫过纱窗<br>无法走出梅雨前夕<br>稀薄的句号<br>就驾驶这一整年的锈<br>云彩般涂满<br>所有天空<br><h3>困意</h3>划过正午的空旷<br>走到空教室中央<br>是怪兽般的餐车<br>还是你寂然的飞行？<br>启示般的耳鸣<br>阳光无声<br>倾泻而下<br>就这样，忘记了布幔与玻璃<br>]]>
+      <![CDATA[<h3>五月二日</h3>像一只酸的动物<br>嗅我盛水的心<br>灯光倾洒<br>浮起关于明天<br>被遗忘的一切<br><br>藏起的页码于是暴露<br>谁的手一下就翻过<br>整个假期<br><br><br><h3>午睡</h3>习惯于枕着<br>静脉和秒针<br>入睡<br><br>那些声音<br>坐在黑暗的门口<br>看我<br><br>我让他们弹奏我<br>漫长，无风的疼痛<br>我让他们住在我眼睛里<br><br><br><h3>雨后</h3>清晨的时间<br>摸索心和胃<br>共同的空旷<br>蛙鸣<br>阔叶低垂<br>往事在此时漫过纱窗<br><br>化不开梅雨前夕<br>稀薄的句号<br>就驾驶这一整年的锈<br>云彩般涂满<br>所有天空<br><br><br><h3>困意</h3>划过正午的空旷<br>走到空教室中央<br>是怪兽般的餐车<br>还是你寂然的飞行？<br>启示般的耳鸣<br>阳光无声<br>倾泻而下<br>就这样，忘记了布幔与玻璃<br>]]>
     </content>
     <id>http://example.com/2026/07/13/%E4%BA%94%E6%9C%88%E4%BA%8C%E6%97%A5/</id>
     <link href="http://example.com/2026/07/13/%E4%BA%94%E6%9C%88%E4%BA%8C%E6%97%A5/"/>
@@ -27,13 +30,17 @@
 灯光倾洒<br>
 浮起关于明天<br>
 被遗忘的一切<br>
-
-<p>藏起的页码于是暴露<br><br>谁的手一下就翻过<br><br>整个假期<br></p>
+<br>
+藏起的页码于是暴露<br>
+谁的手一下就翻过<br>
+整个假期<br>
+<br>
+<br>
 <h3>午睡</h3>
 习惯于枕着<br>]]>
     </summary>
     <title>五月二日</title>
-    <updated>2026-07-13T07:36:03.985Z</updated>
+    <updated>2026-07-13T08:22:22.712Z</updated>
   </entry>
   <entry>
     <author>
